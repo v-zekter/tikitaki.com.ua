@@ -1,0 +1,7 @@
+<script type="text/javascript">
+    (function (d,s,u,e,p) {
+      p=d.getElementsByTagName(s)[0],e=d.createElement(s),e.async=1,e.src=u,p.parentNode.insertBefore(e, p);
+    })(document, 'script', 'https://script.ringostat.com/v4/6a/6a5c2989b49f6484a3c54e3cb4c71b2f153131fc.js');
+    var pw = function() {if (typeof(ringostatAnalytics) === "undefined") {setTimeout(pw,100);} else {ringostatAnalytics.sendHit('pageview');}};
+    pw();
+</script>
